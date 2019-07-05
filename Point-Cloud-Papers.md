@@ -1,5 +1,4 @@
-__`cls.`__: classification &emsp; | &emsp; __`rel.`__: retrieval &emsp; | &emsp; __`seg.`__: segmentation
-__`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction
+__`cls.`__: classification &emsp; | &emsp; __`rel.`__: retrieval &emsp; | &emsp; __`seg.`__: segmentation &emsp; | &emsp; __`reg.`__: registration &emsp; | &emsp; __`rec.`__: reconstruction
 
 ---
 ## 2017
